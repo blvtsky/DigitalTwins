@@ -14,3 +14,5 @@ Three methods are compared:
 3. IDW-KNN (IDW with K Nearest Neighbors)
 
 Quality is evaluated using wall thickness preservation and surface mesh quality metrics.
+
+_Note: Patient data is not included in this repository due to privacy restrictions._
