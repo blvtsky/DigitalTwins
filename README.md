@@ -9,8 +9,8 @@ Given a known deformation of the endocardium (inner heart wall) fitted to a pati
 
 Three methods are compared:
 
-RBF (Radial Basis Function interpolation)
-IDW (Inverse Distance Weighting)
-IDW-KNN (IDW with K Nearest Neighbors)
+1. RBF (Radial Basis Function interpolation)
+2. IDW (Inverse Distance Weighting)
+3. IDW-KNN (IDW with K Nearest Neighbors)
 
 Quality is evaluated using wall thickness preservation and surface mesh quality metrics.
